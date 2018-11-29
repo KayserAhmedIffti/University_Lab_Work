@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1543479830 source:c:\users\nsuit-lab\desktop\binary search tree-(lab=13)\main.cpp
+	"binarysearchtree.cpp"
+	<iostream>
+
+1543477053 c:\users\nsuit-lab\desktop\binary search tree-(lab=13)\binarysearchtree.h
+	"quetype.h"
+
+1543477455 c:\users\nsuit-lab\desktop\binary search tree-(lab=13)\quetype.h
+
+1543477455 c:\users\nsuit-lab\desktop\binary search tree-(lab=13)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1543477053 c:\users\nsuit-lab\desktop\binary search tree-(lab=13)\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
